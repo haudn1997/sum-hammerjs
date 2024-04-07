@@ -1,6 +1,6 @@
 {
-  "name": "sum-number-js",
-  "version": "1.4.0",
+  "name": "sum-hammerjs",
+  "version": "1.0.0",
   "description": "Một thư viện giúp bạn tính tổng của 2 số bất kỳ",
   "main": "index.js",
   "scripts": {
@@ -138,7 +138,6 @@
 	"sum-thaochiphuong55":"^1.0.0",
 	"sum-pguongthao655":"^1.0.0",
 	"sum-thanhmaihoang":"^1.0.0",
-	"sum-nguyendantam":"^1.0.0",
 	"sum-nguyendantam":"^1.0.0",
 	"sum-luongthuthao":"^1.0.0",
 	"sum-luongbichthao":"^1.0.0",
@@ -422,7 +421,6 @@
 	"sum-thinhphatdoan":"^1.0.0",
 	"sum-thuanhoapham":"^1.0.0",
 	"sum-feradilaka":"^1.0.0",
-	"sum-tarachamario":"^1.0.0",
 	"sum-congthao":"^1.0.0",
 	"sum-phangtay":"^1.0.0",
 	"sum-ongthatpham":"^1.0.0",
@@ -440,9 +438,7 @@
 	"sum-doantaypham":"^1.0.0",
 	"sum-ofanidanazafod":"^1.0.0",
 	"sum-taylocthanh":"^1.0.0",
-	"sum-thongdat":"^1.0.0",
 	"sum-thuantay":"^1.0.0",
-	"sum-toancongdoan":"^1.0.0",
 	"sum-congquyentran":"^1.0.0",
 	"sum-agiananagavavs":"^1.0.0",
 	"sum-stegallagh":"^1.0.0",
@@ -496,7 +492,6 @@
     "kimkim-sum": "^1.0.0",
     "tinhtong2so": "^1.0.0",
     "thinhphi": "^1.0.0",
-    "sum-giahuyluong": "^1.0.0",
     "sum-number-js": "^1.4.0"
   },
   "devDependencies": {
